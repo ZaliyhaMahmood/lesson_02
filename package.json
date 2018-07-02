@@ -1,0 +1,26 @@
+{
+  "name": "lesson_02",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Zaliyha",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-jquery": "^2.0.0",
+    "cheerio": "^1.0.0-rc.2",
+    "expect": "^23.2.0",
+    "fs": "0.0.1-security",
+    "jquery": "^3.3.1",
+    "mocha": "^5.2.0",
+    "mocha-jsdom": "^2.0.0",
+    "odev": "0.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": ""
+}
